@@ -6,6 +6,7 @@ I’m still a student learning C++, so I might make mistakes (actually I most li
 ## Contents
 ### 01 Strings
   01-1 String Basics
+  
   01-2 String Functions
 ### 02 Arrays
   02-1 Array Basics
