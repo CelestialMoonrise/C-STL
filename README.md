@@ -6,6 +6,7 @@ I’m still a student learning C++, so I might make mistakes (actually I most li
 #### I really worked on the 01-1 notes & annotation. Go check it out! (Please? *Blink Blink*) I knew you'd go read it!
 
 ## Contents
+### General Container Types: Notes and Annotation
 ### 01 Vectors
   01-1 Vector Basic Functions
 ### 02 Dimensional Arrays
